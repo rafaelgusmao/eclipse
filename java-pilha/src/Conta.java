@@ -1,5 +1,5 @@
 
-public class conta {
+public class Conta {
 
 		void deposita() {
 			
